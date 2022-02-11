@@ -1,0 +1,44 @@
+2,"IDEXX Avian Influenza Virus Ab","AI",1,1,"2020-12-17 12:06:14","0001-01-01 00:00:00","A",NULL,NULL
+3,"IDEXX Avian Influenza MultiS-Screen Ab","AIms",1,1,"2020-12-17 12:06:21","0001-01-01 00:00:00","A",NULL,NULL
+4,"IDEXX Avian Leukosis Virus Ab, Subgroup J","ALV-J",1,1,"2020-12-17 12:06:28","0001-01-01 00:00:00","A",NULL,NULL
+5,"IDEXX Avian Pneumovirus Ab","APV",1,1,"2020-12-17 12:06:36","0001-01-01 00:00:00","A",NULL,NULL
+6,"IDEXX Chicken Anemia Virus Ab","CAV",1,1,"2020-12-17 12:06:43","0001-01-01 00:00:00","A",NULL,NULL
+7,"IDEXX Chicken Anemia Virus Ab 1:100","CAV100",1,1,"2020-12-17 12:06:50","0001-01-01 00:00:00","B",NULL,NULL
+8,"IDEXX Infectious Bursal Disease Virus Ab","IBD",1,1,"2020-12-17 12:06:58","0001-01-01 00:00:00","A",NULL,NULL
+9,"IDEXX Infectious Bursal Disease Virus-XR Ab","IBD-XR",1,1,"2020-12-17 12:07:06","0001-01-01 00:00:00","A",NULL,NULL
+10,"IDEXX Infectious Bronchitis Virus Ab","IBV",1,1,"2020-12-17 12:07:13","0001-01-01 00:00:00","A",NULL,NULL
+11,"IDEXX Influenza A Ab","INFAavian",1,1,"2020-12-17 12:07:21","0001-01-01 00:00:00","A",NULL,NULL
+12,"IDEXX Avian Leukosis Virus Ab","LLAB",1,1,"2020-12-17 12:07:33","0001-01-01 00:00:00","A",NULL,NULL
+13,"IDEXX Avian Leukosis Virus Antigen","LLAG",1,1,"2020-12-17 12:07:43","0001-01-01 00:00:00","A",NULL,NULL
+14,"IDEXX Mycoplasma Gallisepticum Ab","MG",1,1,"2020-12-17 12:07:54","0001-01-01 00:00:00","A",NULL,NULL
+15,"IDEXX Mycoplasma Meleagridis Ab","MMt",1,2,"2020-12-17 12:08:04","0001-01-01 00:00:00","A",NULL,NULL
+16,"IDEXX Mycoplasma Synoviae Ab","MS",1,1,"2020-12-17 12:08:15","0001-01-01 00:00:00","A",NULL,NULL
+17,"IDEXX Mycoplasma Gallisepticum-Synoviae Ab","MSMG",1,1,"2020-12-17 12:08:26","0001-01-01 00:00:00","A",NULL,NULL
+18,"IDEXX Newcastle Disease Virus Ab","NDV",1,1,"2020-12-17 12:08:38","0001-01-01 00:00:00","A",NULL,NULL
+19,"IDEXX Newcastle Disease Virus Ab - Turkey","NDVt",1,2,"2020-12-17 12:08:48","0001-01-01 00:00:00","A",NULL,NULL
+20,"IDEXX Ornithobacterium rhinotracheale Ab","ORT",1,1,"2020-12-17 12:08:58","0001-01-01 00:00:00","A",NULL,NULL
+21,"IDEXX Pasteurella Multocida Ab","PM",1,1,"2020-12-17 12:09:09","0001-01-01 00:00:00","A",NULL,NULL
+22,"IDEXX Pasteurella Multocida Ab - Turkey","PMt",1,2,"2020-12-17 12:09:20","0001-01-01 00:00:00","A",NULL,NULL
+23,"IDEXX Avian Reovirus Ab","REO",1,1,"2020-12-17 12:09:31","0001-01-01 00:00:00","A",NULL,NULL
+24,"IDEXX Reticuloendotheliosis Virus Ab","REV",1,1,"2020-12-17 12:09:42","0001-01-01 00:00:00","A",NULL,NULL
+26,"IDEXX APP-Apx IV Ab","APP",3,4,"2020-12-17 12:10:53","0001-01-01 00:00:00","A",NULL,NULL
+29,"IDEXX CSFV Ab","CSFVAb",3,4,"2020-12-17 12:13:18","0001-01-01 00:00:00","A",NULL,NULL
+30,"IDEXX CSFV Ag Serum","CSFVag",3,4,"2020-12-17 12:13:27","0001-01-01 00:00:00","A",NULL,NULL
+31,"IDEXX Influenza A Ab","Influenza A",3,4,"2020-12-17 12:13:35","0001-01-01 00:00:00","A",NULL,NULL
+32,"IDEXX M. hyo. Ab","Mhyo",3,4,"2020-12-17 12:13:49","0001-01-01 00:00:00","A",NULL,NULL
+33,"IDEXX PRRS OF Ab","PRRS OF",3,4,"2020-12-17 12:14:02","0001-01-01 00:00:00","B",NULL,NULL
+34,"IDEXX PRRS X3 Ab","PRRSX3",3,4,"2020-12-17 12:14:12","0001-01-01 00:00:00","A",NULL,NULL
+35,"IDEXX PRV/ADV gB Ab","PRVgB",3,4,"2020-12-17 12:14:21","0001-01-01 00:00:00","A",NULL,NULL
+37,"IDEXX PRV/ADV gB Ab Overnight","PRVgB ON",3,4,"2020-12-17 12:14:47","0001-01-01 00:00:00","A",NULL,NULL
+38,"IDEXX PRV/ADV gI Ab % Inhibition","PRVgpI(%)",3,4,"2020-12-17 12:14:57","0001-01-01 00:00:00","B",NULL,NULL
+39,"IDEXX PRV/ADV gI Ab","PRVgpI",3,4,"2020-12-17 12:15:07","0001-01-01 00:00:00","A",NULL,NULL
+41,"IDEXX Swine Salmonella Ab with 10% cutoff (30 min inc)","Salm 10%",3,4,"2020-12-17 12:15:56","0001-01-01 00:00:00","A",NULL,NULL
+42,"IDEXX Swine Salmonella Ab with 15% cutoff (ON inc)","Salm 15%",3,4,"2020-12-17 12:16:06","0001-01-01 00:00:00","A",NULL,NULL
+43,"IDEXX Swine Salmonella Ab with 20% cutoff (ON inc)","Salm 20%ON",3,4,"2020-12-17 12:16:28","0001-01-01 00:00:00","A",NULL,NULL
+44,"IDEXX Swine Salmonella Ab with 40% cutoff (ON inc)","Salm 40%ON",3,4,"2020-12-17 12:16:38","0001-01-01 00:00:00","A",NULL,NULL
+45,"IDEXX Swine Salmonella Ab with 20% cutoff (30 min inc)","Salm 20%30",3,4,"2020-12-17 12:16:57","0001-01-01 00:00:00","A",NULL,NULL
+46,"IDEXX Swine Salmonella Ab with 40% cutoff (30 min inc)","Salm 40%30",3,4,"2020-12-17 12:17:15","0001-01-01 00:00:00","A",NULL,NULL
+50,"IDEXX Avian Encephalomyelitis Virus Ab","AE",1,1,"2020-12-17 17:40:31","0001-01-01 00:00:00","A",NULL,NULL
+51,"IDEXX Foot-and-Mouth-Disease (FMD) Multispecies Ab - Swine","FMD",3,4,"2021-02-18 14:57:31","0001-01-01 00:00:00","A",NULL,NULL
+52,"IDEXX Swine Influenza Virus Ab","SIV",3,4,"2021-02-18 14:57:43","0001-01-01 00:00:00","A",NULL,NULL
+53,"IDEXX Salmonella Enteritidis Ab X2","SE Ab X2",1,1,"2021-02-18 19:16:42","0001-01-01 00:00:00","A",NULL,NULL
